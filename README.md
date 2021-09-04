@@ -6,9 +6,8 @@ This is a simple program to analyze and do operations on concurrent forces in 2D
 * Install using the setup file from latest release.<H6>OR</H6>
 * Run the main.py file after instaling python packages:-
     * tkinter
-    * pygame
-    * keyboard
-    * threading.
+    * math
+    * numpy
 
 
    Using commang " pip install < package name > "
